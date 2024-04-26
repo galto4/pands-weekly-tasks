@@ -1,5 +1,5 @@
-# helloWorld.py
-# This program just prints out hello World
+# Weekly Task 1 of 'Programming & Scripting'
 # Author: Mark Gallagher
 
-print ("Hello World!")
+# This is a print statement/function
+print ("Hello World!") # This will output "Hello World!" when executed
